@@ -1,4 +1,4 @@
-package main.java.multithreading;
+package main.java.multithreading.completablefuture;
 /*
 Author: Vikas Yadav
 Date: 13/03/22

@@ -1,4 +1,4 @@
-package main.java.multithreading;
+package main.java.multithreading.completablefuture;
 /*
 Author: Vikas Yadav
 Date: 13/03/22
@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 import static java.util.concurrent.CompletableFuture.supplyAsync;
 
